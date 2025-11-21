@@ -1,2 +1,2 @@
 # Dados de Vinhos
-Analise de dados das propriedades quimicas dos vinhos
+Este conjunto de dados sobre vinhos contém a análise química de vinhos cultivados na mesma região da Itália. O objetivo dos dados é estudar como diferentes componentes químicos, como álcool, flavonoides, magnésio, intensidade da cor e fenóis, variam entre vinhos produzidos a partir de três diferentes cultivares de uva. O conjunto de dados é amplamente utilizado em aprendizado de máquina por ser pequeno, limpo e perfeito para tarefas de classificação.
